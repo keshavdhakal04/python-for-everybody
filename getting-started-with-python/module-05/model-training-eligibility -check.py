@@ -17,7 +17,7 @@ try :
 except:
     print("Invalid input, Must be an interger")
 
-else: # if user enters an invalid input (like string/text), the variable (datasetSize and ram) will never be created.. 
+else: # if user enters an invalid input (like string/text), the variable (datasetSize and ram) will never be created.. runs ONLY if input succeeded
     if datasetSize >= 10000 and ram >= 8:
         print("Training can start!!")
     else:
