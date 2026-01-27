@@ -8,7 +8,7 @@
 
 envName = input("Enter environment name (dev/test/prod) : ").lower() # .lower() converts the input to lowercase so that 'DEV', 'Dev', or 'dev' are all treated the same
 
-if envName == "dev": #'==' is the equality operator.. it checks whether two values are exactly the same
+if envName == "dev": #'==' is the equality operator. it checks whether two values are exactly the same
         print("Debug logging enabled")
 elif envName == "test":
         print("Running test suite")
