@@ -1,7 +1,10 @@
 # Python for Everybody – Practice Repository
 
-This repository contains my practice programs and exercises from the **Python for Everybody** course.
-The goal of this repository is to document my learning progress while building a strong foundation in Python programming.
+This repository contains my practice programs and exercises from the **Python for Everybody** specialization offered by the **University of Michigan** on **Coursera**.
+
+## About the Course
+
+The Python for Everybody specialization focuses on building a strong foundation in Python programming, data structures, web data access, and working with databases.
 
 ## Course Structure
 
@@ -52,18 +55,18 @@ Topics covered:
 
 * Data analysis
 * Data visualization
-* Processing large datasets
+* Processing datasets
 
 ## Repository Structure
 
 ```
 python-for-everybody/
 │
-├── getting-started-python/
-├── python-data-structures/
-├── access-web-data/
-├── databases-python/
-└── data-visualization/
+├── 01-getting-started-python/
+├── 02-python-data-structures/
+├── 03-access-web-data/
+├── 04-using-databases-with-python/
+└── 05-data-visualization/
 ```
 
 ## Technologies Used
@@ -75,7 +78,7 @@ python-for-everybody/
 
 ## Purpose
 
-This repository serves as a learning log while studying Python fundamentals, data structures, web data extraction, and database usage.
+This repository documents my learning progress while studying Python fundamentals, data structures, web data extraction, and database usage.
 
 ## Author
 
